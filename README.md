@@ -1,0 +1,3 @@
+- 👋 Hola, Sou Skuudy
+- 👀 Programo en JavaScript
+- 🌱 Me gusta crear bots de discord
